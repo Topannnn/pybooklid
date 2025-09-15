@@ -168,15 +168,6 @@ Demonstrates basic sensor usage patterns and gesture detection.
 ### Advanced Monitor (`examples/monitor_app.py`)
 Full-featured monitoring application with statistics, logging, and CSV export.
 
-### Creaky Door Effect (`examples/creaky_door.py`)
-Fun demonstration that plays adaptive door creak sounds based on lid movement.
-
-### Real-time Audio Synthesis (`creak_synthesizer.py`)
-Advanced audio synthesis that generates realistic door sounds adapting to:
-- Movement speed (faster = louder, more intense)
-- Lid angle (different positions make different sounds)
-- Direction (opening vs closing has different characteristics)
-
 ## Troubleshooting
 
 ### "Sensor not found" error
