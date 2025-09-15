@@ -15,7 +15,7 @@ A Python library for reading MacBook lid angle sensor data on macOS. This librar
 
 - macOS (tested on Apple Silicon)
 - Python 3.7+
-- Modern MacBook with lid angle sensor (most 2016+ models)
+- Modern MacBook with lid angle sensor (most 2019+ models)
 
 ## Installation
 
